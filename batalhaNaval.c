@@ -16,6 +16,10 @@ tabuleiro[2][5] = '3';
 tabuleiro[5] [6] = '3';
 tabuleiro[6] [6] = '3';
 tabuleiro[7] [6] = '3';
+//j-1, i-2, h-3
+tabuleiro[0] [9] = '3';
+tabuleiro[1] [8] = '3';
+tabuleiro[2] [7] = '3';
 
 printf("   ");
 for (int i = 0; i < 10; i++) {
